@@ -60,8 +60,8 @@ programa.exe
 
 - [ ] Fundamentos
 - [ ] Controle de fluxo
-- [ ] Funções
-- [ ] Ponteiros e memória
+- [x] Funções
+- [x] Ponteiros e memória
 - [ ] Programação orientada a objetos
 - [x] STL
 
